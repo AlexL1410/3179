@@ -1,0 +1,13 @@
+{
+ "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+ "title": { "text": "Highest total revenue made by each game in E-sports" },
+ "data": {
+ "url": "https://github.com/AlexL1410/3179/blob/main/highest_earning_players.csv"
+ },
+ "mark": "bar",
+ "encoding": {
+ "x": { "field": "TotalUSDPrize", "type": "quantitative" },
+ "y": { "field": "Game", "type": "nominal" }
+ }
+}
+
