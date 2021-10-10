@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 500,
+  "title": {"text": "Highest Earning Games in E-Sports"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/highest_earning_players.csv"
+  },
+  "params": [
+    {
+    "name": "Game_selection",
+    "bind": {
+    "input": "select",
+    "options": [
+    null,
+    "Arena of Valor",
+    "Counter-Strike: Global Offensive",
+    "Dota 2",
+    "Fortnite",
+    "Hearthstone",
+    "Heroes of the Storm",
+    "League of Legends",
+    "Overwatch",
+    "PUBG",
+    "Starcraft II"
+    ],
+    "labels":[
+    "Show All",
+    "Arena of Valor",
+    "Counter-Strike: Global Offensive",
+    "Dota 2",
+    "Fortnite",
+    "Hearthstone",
+    "Heroes of the Storm",
+    "League of Legends",
+    "Overwatch",
+    "PUBG",
+    "Starcraft II"
+    ],
+    "name": "Game Selection: "
+    }
+    }
+],     
+"transform": [
+    {"filter": "Game_selection == null || datum.Game == Game_selection"}
+],
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "TotalUSDPrize", "type": "quantitative"},
+    "y": {"field": "Game", "type": "nominal"},
+    "color": {"field": "Game", "type": "nominal"},
+    "tooltip": [
+      {"field": "Game", "type": "nominal"},
+      {"field": "TotalUSDPrize", "type": "quantitative", "format": ","}
+      ]
+  }
+}
