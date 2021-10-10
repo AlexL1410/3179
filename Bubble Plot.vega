@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": {"text":"Top 15 Most Earning E-Sports Organisations"},
+    "data": {
+    "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2015%20Teams%20.csv"
+    },      
+    "params": [
+        {
+        "name": "Team_selection",
+        "bind": {
+        "input": "select",
+        "options": [
+        null,
+        "Cloud9",
+        "DAWMON Gaming",
+        "EDward Gaming",
+        "Fnatic",
+        "FunPlus Phoenix",
+        "G2 Esports",
+        "Invictus Gaming",
+        "Royal Never Give Up",
+        "SK Telecom T1 K",
+        "Samsung Galaxy",
+        "T1",
+        "TSM",
+        "Team Liquid",
+        "Top Esports"
+        ],
+        "labels":[
+        "Show All",
+        "Cloud9",
+        "DAWMON Gaming",
+        "EDward Gaming",
+        "Fnatic",
+        "FunPlus Phoenix",
+        "G2 Esports",
+        "Invictus Gaming",
+        "Royal Never Give Up",
+        "SK Telecom T1 K",
+        "Samsung Galaxy",
+        "T1",
+        "TSM",
+        "Team Liquid",
+        "Top Esports"
+        ],
+        "name": "Team Selection: "
+        }
+        }
+    ],     
+    "transform": [
+        {"filter": "Team_selection == null || datum.TeamName == Team_selection"},
+    ],
+    "mark":"circle",
+    "encoding": {
+    "x": {
+    "field": "TeamName",
+    "type": "nominal",
+    "title":""
+    },
+    "y": {
+    "field": "Earnings in USD",
+    "type": "quantitative",
+    "title":""
+    },
+    "color": {
+    "field": "TeamName",
+    "type": "nominal"
+    },
+    "size": {
+    "field": "Earnings in USD",
+    "type": "quantitative"
+    }, 
+    "tooltip": [
+    {"field": "TeamName", "type": "nominal"},
+    {"field": "Earnings in USD", "type": "quantitative", "format": ","}
+    ]
+    }
+}
