@@ -1,6 +1,6 @@
 number,name,earnings_in_USD,Number_of_major_tournaments_won,Number_of_second_place_placing,number_of_third_place_placings,number_of_regional_tournaments_won
-1,Faker,"$1,427,854",17,8,3,16
-2,Duke,"$1,202,577",10,2,5,8
-3,Bang,"$1,059,518",9,5,2,9
-4,Wolf,"$1,051,271",9,7,1,9
-5,Bengi,"$926,920",9,1,3,8
+1,Faker,1427854,17,8,3,16
+2,Duke,1202577,10,2,5,8
+3,Bang,1059518,9,5,2,9
+4,Wolf,1051271,9,7,1,9
+5,Bengi,926920,9,1,3,8
