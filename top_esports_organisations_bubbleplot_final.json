@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": {"text":"Top 15 Most Earning E-Sports Teams vs Total Achievements"},
+    "data": {
+    "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2015%20Teams%20.csv"
+    },      
+    "params": [
+        {
+        "name": "Team_selection",
+        "bind": {
+        "input": "select",
+        "options": [
+        null,
+        "Cloud9",
+        "DAMWON Gaming",
+        "EDward Gaming",
+        "Fnatic",
+        "FunPlus Phoenix",
+        "G2 Esports",
+        "Invictus Gaming",
+        "Royal Never Give Up",
+        "SK Telecom T1 K",
+        "Samsung Galaxy",
+        "T1",
+        "TSM",
+        "Team Liquid",
+        "Top Esports"
+        ],
+        "labels":[
+        "Show All",
+        "Cloud9",
+        "DAMWON Gaming",
+        "EDward Gaming",
+        "Fnatic",
+        "FunPlus Phoenix",
+        "G2 Esports",
+        "Invictus Gaming",
+        "Royal Never Give Up",
+        "SK Telecom T1 K",
+        "Samsung Galaxy",
+        "T1",
+        "TSM",
+        "Team Liquid",
+        "Top Esports"
+        ],
+        "name": "Team Selection: "
+        }
+        }
+    ],     
+    "transform": [
+        {"filter": "Team_selection == null || datum.TeamName == Team_selection"}
+    ],
+    "mark":"point",
+    "encoding": {
+    "x": {
+    "field": "TotalAchievements",
+    "type": "quantitative",
+    "title":"Total Number of Achievements"
+    },
+    "y": {
+    "field": "earnings",
+    "type": "quantitative",
+    "scale": {"domain": [0,6500000]},
+    "title":"Total Earnings"
+    },      
+    "size": {
+    "field": "earnings",
+    "type": "quantitative",
+    "title": "Total Earnings"
+    }, 
+    "tooltip": [
+    {"field": "TeamName", "type": "nominal", "title":"Team Name"},
+    {"field": "earnings", "type": "quantitative", "format": ",","title":"Total Earnings"},
+    {"field": "1stPlace", "type": "quantitative", "title":"1st Place Achievements"},
+    {"field": "2ndPlace", "type": "quantitative", "title":"2nd Place Achievements"},
+    {"field": "3rdPlace", "type": "quantitative", "title":"3rd Place Achievements"},   
+    {"field": "TotalAchievements", "type":"quantitative", "title":"Total Achievements"}
+    ]
+    }
+}
+
+  
