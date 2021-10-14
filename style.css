@@ -3,6 +3,7 @@
 }
 
 .page {
+    width: 1500px;
     background-color: lightblue;
     font-family: 'Source Sans Pro', sans-serif;
 }
