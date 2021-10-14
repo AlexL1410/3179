@@ -1,0 +1,98 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 500,
+  "title": {"text": "Top 25 Earning Players vs Total Achievements"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2025%20Players.csv"
+  },
+  "params": [
+    {
+    "name": "player_selection",
+    "bind": {
+    "input": "select",
+    "options": [
+    null,
+    "Faker",
+    "Duke",
+    "Bang",
+    "Wolf",
+    "Bengi",
+    "JackeyLove",
+    "Blank",
+    "Rookie",
+    "Ning",
+    "Baolan",
+    "CoreJJ",
+    "TheShy",
+    "Ruler",
+    "Karsa",
+    "Ambition",
+    "CuVee",
+    "Xiaohu",
+    "Caps",
+    "Crown",
+    "Impact",
+    "Peanut",
+    "Uzi",
+    "Mata",
+    "Mlxg",
+    "Perkz"
+ ],
+    "labels":[
+    "Show All",
+    "Faker",
+    "Duke",
+    "Bang",
+    "Wolf",
+    "Bengi",
+    "JackeyLove",
+    "Blank",
+    "Rookie",
+    "Ning",
+    "Baolan",
+    "CoreJJ",
+    "TheShy",
+    "Ruler",
+    "Karsa",
+    "Ambition",
+    "CuVee",
+    "Xiaohu",
+    "Caps",
+    "Crown",
+    "Impact",
+    "Peanut",
+    "Uzi",
+    "Mata",
+    "Mlxg",
+    "Perkz"
+    ],
+    "name": "Player Selection:"
+    }
+    }
+],     
+"transform": [
+    {"filter": "player_selection == null || datum.name == player_selection"}
+ ], 
+  "mark": {
+      "type": "circle",
+      "line": true
+  },
+  "encoding": {
+    "x": {"field": "TotalAchievements", "type": "quantitative", "title": "Total Number of Achievements"},
+    "y": {"field": "earnings", "type": "quantitative", "title":"Total Earnings"},
+    "color": {"field":"name", "type": "nominal", "title": "Player Name"},
+    "opacity": {
+        "value": 0.6
+        },
+    "size":{"field":"earnings","type":"quantitative", "title": "Total Earnings"},
+    "tooltip": [
+      {"field": "name", "type": "nominal", "title": "Player Name"},
+      {"field": "earnings", "type": "quantitative", "format": ",", "title":"Total Earnings"},
+      {"field": "1stPlace", "type": "quantitative", "title": "1st Place Achievements"},
+      {"field": "2ndPlace", "type": "quantitative", "title": "2nd Place Achievements"},
+      {"field": "3rdPlace", "type": "quantitative", "title": "3rd Place Achievements"},
+      {"field": "TotalAchievements", "type":"quantitative", "title": "Total Achievements"}
+      ]
+  }
+}

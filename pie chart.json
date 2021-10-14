@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple radial chart with embedded data.",
+    "title":"Total E-Sports Earnings By Game Genre",
+    "width":500,
+    "height":500,
+    "data": {
+      "url":"https://raw.githubusercontent.com/AlexL1410/3179/main/game_genre.csv"
+    },
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 10},
+      "encoding": {
+      }
+    }],
+    "encoding": {
+      "theta": {"field": "TotalEarnings", "type": "quantitative", "stack": true},
+      "radius": {"field": "TotalEarnings", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "GenreTitle", "type": "nominal", "legend": null},
+      "tooltip": [
+        {"field": "GenreTitle", "type": "nominal","title":"Genre Title"},
+        {"field": "PlayerCount", "type": "quantitative", "format": ",", "title": "Player Count"},
+        {"field": "TotalEarnings", "type":"quantitative", "title": "Total Earnings"}
+        ]
+    }
+  }
+  

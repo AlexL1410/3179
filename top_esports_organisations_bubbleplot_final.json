@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 500,
-    "height": 400,
+    "height": 500,
     "title": {"text":"Top 15 Most Earning E-Sports Teams vs Total Achievements"},
     "data": {
     "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2015%20Teams%20.csv"
