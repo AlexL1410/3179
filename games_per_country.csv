@@ -1,1001 +1,1001 @@
-CountryCode,CountryName,Game,Genre,GameTitle,Country_Name,Two_Letter_Country_Code,TotalPlayers,CSGOPlayers,DotaPlayers,LOLPlayers,FortnitePlayers,OverwatchPlayers,StarcraftPlayers,HeroesPlayers,PUBGPlayers,ArenaPlayers,HearthstonePlayers
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,Counter-Strike: Global Offensive,Argentina,AR,3,0,0,0,1,0,0,0,0,0,2
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,Dota 2,Australia,AU,5,0,2,0,0,1,0,1,1,0,0
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,League of Legends,Austria,AT,3,0,0,0,3,0,0,0,0,0,0
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,Fortnite,Belgium,BE,5,1,0,1,3,0,0,0,0,0,0
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,Overwatch,Bosnia and Herzegovina,BA,1,1,0,0,0,0,0,0,0,0,0
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,Starcraft II,Brazil,BR,10,8,0,0,0,1,1,0,0,0,0
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,Heroes of the Storm,Bulgaria,BG,6,2,1,1,0,0,0,2,0,0,0
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,PUBG,Belarus,BY,2,0,1,0,1,0,0,0,0,0,0
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,Arena of Valor,Canada,CA,37,4,4,1,6,3,3,4,4,0,8
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,Hearthstone,China,CN,168,1,39,22,0,2,8,18,26,36,16
-ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter,,Taiwan,TW,34,0,0,8,0,0,2,2,0,18,4
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,Croatia,HR,2,0,0,1,0,0,0,1,0,0,0
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Cuba,CU,1,0,0,0,0,0,0,0,1,0,0
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Czech Republic,CZ,3,1,0,0,0,0,0,0,0,0,2
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Denmark,DK,36,12,4,7,4,0,1,3,3,0,2
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Estonia,EE,2,1,1,0,0,0,0,0,0,0,0
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Finland,FI,16,3,3,0,1,4,1,0,3,0,1
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,France,FR,37,12,1,2,7,4,4,2,2,0,3
-ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter,,Germany,DE,30,1,2,0,4,0,5,7,2,0,9
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Gibraltar,GI,1,0,0,0,0,0,0,0,1,0,0
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Greece,GR,1,0,0,0,0,0,0,0,0,0,1
-sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter,,Hong Kong,HK,5,0,0,1,1,0,0,0,0,0,3
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Ireland,IE,1,0,0,0,0,0,0,0,1,0,0
-no,Norway,Counter-Strike: Global Offensive,First-Person Shooter,,Israel,IL,2,0,1,0,0,1,0,0,0,0,0
-ba,Bosnia and Herzegovina,Counter-Strike: Global Offensive,First-Person Shooter,,Italy,IT,2,0,0,0,0,0,1,0,0,0,1
-ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter,,Japan,JP,4,0,0,0,0,1,0,0,0,0,3
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Kazakhstan,KZ,6,5,0,0,0,0,0,0,0,0,1
-ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter,,Jordan,JO,2,0,2,0,0,0,0,0,0,0,0
-ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter,,Korea,KR,251,0,3,47,1,69,61,28,25,10,7
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Lebanon,LB,1,0,1,0,0,0,0,0,0,0,0
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,Latvia,LV,1,0,0,0,1,0,0,0,0,0,0
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,Lithuania,LT,2,0,0,0,1,0,0,0,1,0,0
-ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter,,Macao,MO,1,0,1,0,0,0,0,0,0,0,0
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,Malaysia,MY,6,0,5,0,0,0,0,0,0,1,0
-nl,Netherlands,Counter-Strike: Global Offensive,First-Person Shooter,,Mexico,MX,1,0,0,0,0,0,1,0,0,0,0
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,Netherlands,NL,10,1,0,0,3,0,2,0,1,0,3
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Norway,NO,10,1,0,0,4,0,1,1,2,0,1
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,Pakistan,PK,1,0,1,0,0,0,0,0,0,0,0
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,Philippines,PH,7,0,4,1,0,0,0,0,1,0,1
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Poland,PL,14,7,1,1,0,0,3,1,0,0,1
-ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter,,Romania,RO,2,0,1,0,0,0,0,0,0,0,1
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Russian Federation,RU,22,5,4,0,3,1,0,0,6,0,3
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Singapore,SG,1,0,1,0,0,0,0,0,0,0,0
-ee,Estonia,Counter-Strike: Global Offensive,First-Person Shooter,,Slovakia,SK,3,3,0,0,0,0,0,0,0,0,0
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Vietnam,VN,7,0,0,0,0,0,0,0,1,6,0
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,Slovenia,SI,4,0,0,1,2,0,0,1,0,0,0
-ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter,,Spain,ES,6,1,0,2,0,2,1,0,0,0,0
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Sweden,SE,45,13,7,2,5,3,3,7,2,0,3
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Switzerland,CH,3,0,0,0,3,0,0,0,0,0,0
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,Thailand,TH,29,0,0,0,0,0,0,0,1,28,0
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Turkey,TR,4,2,0,0,0,0,0,0,1,0,1
-fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter,,Turkey,TR,4,2,0,0,0,0,0,0,1,0,1
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,Ukraine,UA,12,3,5,0,0,0,1,0,0,0,3
-kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter,,Macedonia,MK,1,0,1,0,0,0,0,0,0,0,0
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,United Kingdom,GB,16,1,0,0,5,3,0,3,2,0,2
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,United States of America,US,114,10,4,2,41,5,1,19,13,1,18
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,Uzbekistan,UZ,1,1,0,0,0,0,0,0,0,0,0
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-bg,Bulgaria,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-cz,Czech Republic,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-tr,Turkey,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-tr,Turkey,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-bg,Bulgaria,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-be,Belgium,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-es,Spain,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-de,Germany,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-gb,United Kingdom,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-cn,China,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-uz,Uzbekistan,Counter-Strike: Global Offensive,First-Person Shooter,,,,,,,,,,,,,,
-dk,Denmark,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fi,Finland,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-au,Australia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fr,France,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fi,Finland,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-jo,Jordan,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-bg,Bulgaria,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-lb,Lebanon,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fi,Finland,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-pk,Pakistan,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ee,Estonia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-il,Israel,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ro,Romania,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-au,Australia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ua,Ukraine,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-sg,Singapore,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-jo,Jordan,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ua,Ukraine,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-mo,Macao,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-mk,Macedonia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-pl,Poland,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ua,Ukraine,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ua,Ukraine,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ph,Philippines,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ph,Philippines,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ph,Philippines,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ua,Ukraine,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ph,Philippines,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-by,Belarus,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Dota 2,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-hr,Croatia,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fr,France,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-pl,Poland,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-bg,Bulgaria,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-be,Belgium,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ph,Philippines,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-es,Spain,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-hk,Hong Kong,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-si,Slovenia,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fr,France,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-es,Spain,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,League of Legends,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-at,Austria,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-no,Norway,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,Fortnite,Battle Royale,,,,,,,,,,,,,,
-nl,Netherlands,Fortnite,Battle Royale,,,,,,,,,,,,,,
-hk,Hong Kong,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ar,Argentina,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-nl,Netherlands,Fortnite,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,Fortnite,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,Fortnite,Battle Royale,,,,,,,,,,,,,,
-at,Austria,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ch,Switzerland,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-be,Belgium,Fortnite,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-at,Austria,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ch,Switzerland,Fortnite,Battle Royale,,,,,,,,,,,,,,
-no,Norway,Fortnite,Battle Royale,,,,,,,,,,,,,,
-lv,Latvia,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,Fortnite,Battle Royale,,,,,,,,,,,,,,
-no,Norway,Fortnite,Battle Royale,,,,,,,,,,,,,,
-nl,Netherlands,Fortnite,Battle Royale,,,,,,,,,,,,,,
-si,Slovenia,Fortnite,Battle Royale,,,,,,,,,,,,,,
-de,Germany,Fortnite,Battle Royale,,,,,,,,,,,,,,
-de,Germany,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,Fortnite,Battle Royale,,,,,,,,,,,,,,
-by,Belarus,Fortnite,Battle Royale,,,,,,,,,,,,,,
-de,Germany,Fortnite,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-be,Belgium,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fi,Finland,Fortnite,Battle Royale,,,,,,,,,,,,,,
-no,Norway,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ch,Switzerland,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,Fortnite,Battle Royale,,,,,,,,,,,,,,
-be,Belgium,Fortnite,Battle Royale,,,,,,,,,,,,,,
-si,Slovenia,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,Fortnite,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-lt,Lithuania,Fortnite,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,Fortnite,Battle Royale,,,,,,,,,,,,,,
-fr,France,Fortnite,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,Fortnite,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,Fortnite,Battle Royale,,,,,,,,,,,,,,
-de,Germany,Fortnite,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,Fortnite,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-jp,Japan,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-gb,United Kingdom,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-gb,United Kingdom,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-cn,China,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-il,Israel,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-ca,Canada,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-es,Spain,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-gb,United Kingdom,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-ru,Russian Federation,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-ca,Canada,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-br,Brazil,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-cn,China,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-es,Spain,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-se,Sweden,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-ca,Canada,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-us,United States of America,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fr,France,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-au,Australia,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-kr,Korea,Overwatch,First-Person Shooter,,,,,,,,,,,,,,
-fi,Finland,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-us,United States of America,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-ca,Canada,Starcraft II,Strategy,,,,,,,,,,,,,,
-mx,Mexico,Starcraft II,Strategy,,,,,,,,,,,,,,
-no,Norway,Starcraft II,Strategy,,,,,,,,,,,,,,
-pl,Poland,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-fr,France,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-it,Italy,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-de,Germany,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-pl,Poland,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-pl,Poland,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-se,Sweden,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-de,Germany,Starcraft II,Strategy,,,,,,,,,,,,,,
-br,Brazil,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-nl,Netherlands,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-ca,Canada,Starcraft II,Strategy,,,,,,,,,,,,,,
-tw,Taiwan,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-tw,Taiwan,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-ca,Canada,Starcraft II,Strategy,,,,,,,,,,,,,,
-fr,France,Starcraft II,Strategy,,,,,,,,,,,,,,
-ua,Ukraine,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-de,Germany,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-nl,Netherlands,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-se,Sweden,Starcraft II,Strategy,,,,,,,,,,,,,,
-es,Spain,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-de,Germany,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-fr,France,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-fr,France,Starcraft II,Strategy,,,,,,,,,,,,,,
-de,Germany,Starcraft II,Strategy,,,,,,,,,,,,,,
-dk,Denmark,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Starcraft II,Strategy,,,,,,,,,,,,,,
-se,Sweden,Starcraft II,Strategy,,,,,,,,,,,,,,
-cn,China,Starcraft II,Strategy,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fr,France,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-fr,France,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-bg,Bulgaria,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-pl,Poland,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-bg,Bulgaria,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-si,Slovenia,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-hr,Croatia,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-no,Norway,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-au,Australia,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,PUBG,Battle Royale,,,,,,,,,,,,,,
-fi,Finland,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-no,Norway,PUBG,Battle Royale,,,,,,,,,,,,,,
-fi,Finland,PUBG,Battle Royale,,,,,,,,,,,,,,
-no,Norway,PUBG,Battle Royale,,,,,,,,,,,,,,
-nl,Netherlands,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,PUBG,Battle Royale,,,,,,,,,,,,,,
-fi,Finland,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,PUBG,Battle Royale,,,,,,,,,,,,,,
-ie,Ireland,PUBG,Battle Royale,,,,,,,,,,,,,,
-ph,Philippines,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-gi,Gibraltar,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-lt,Lithuania,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-tr,Turkey,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-au,Australia,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cu,Cuba,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-fr,France,PUBG,Battle Royale,,,,,,,,,,,,,,
-fr,France,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-se,Sweden,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-vn,Vietnam,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ru,Russian Federation,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-ca,Canada,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-de,Germany,PUBG,Battle Royale,,,,,,,,,,,,,,
-de,Germany,PUBG,Battle Royale,,,,,,,,,,,,,,
-gb,United Kingdom,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,PUBG,Battle Royale,,,,,,,,,,,,,,
-kr,Korea,PUBG,Battle Royale,,,,,,,,,,,,,,
-th,Thailand,PUBG,Battle Royale,,,,,,,,,,,,,,
-dk,Denmark,PUBG,Battle Royale,,,,,,,,,,,,,,
-us,United States of America,PUBG,Battle Royale,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-us,United States of America,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-my,Malaysia,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-kr,Korea,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-th,Thailand,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-cn,China,Arena of Valor,Multiplayer Online Battle Arena,,,,,,,,,,,,,,
-nl,Netherlands,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-tw,Taiwan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ru,Russian Federation,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-no,Norway,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-se,Sweden,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ua,Ukraine,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-jp,Japan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ua,Ukraine,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ro,Romania,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ph,Philippines,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-dk,Denmark,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ru,Russian Federation,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cz,Czech Republic,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-tr,Turkey,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-se,Sweden,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-fr,France,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ua,Ukraine,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ru,Russian Federation,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-tw,Taiwan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-gr,Greece,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-tw,Taiwan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-pl,Poland,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-tw,Taiwan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-jp,Japan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-fr,France,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ar,Argentina,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-hk,Hong Kong,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-gb,United Kingdom,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kz,Kazakhstan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-nl,Netherlands,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-jp,Japan,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ar,Argentina,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-gb,United Kingdom,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cz,Czech Republic,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-fr,France,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-nl,Netherlands,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-hk,Hong Kong,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-kr,Korea,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-ca,Canada,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-hk,Hong Kong,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-dk,Denmark,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-cn,China,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-de,Germany,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-fi,Finland,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-it,Italy,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-us,United States of America,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
-se,Sweden,Hearthstone,Collectible Card Game,,,,,,,,,,,,,,
+CountryCode,CountryName,Game,Genre
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+no,Norway,Counter-Strike: Global Offensive,First-Person Shooter
+ba,Bosnia and Herzegovina,Counter-Strike: Global Offensive,First-Person Shooter
+ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter
+ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+ua,Ukraine,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+nl,Netherlands,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+ee,Estonia,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+bg,Bulgaria,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter
+cz,Czech Republic,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter
+tr,Turkey,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter
+tr,Turkey,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+fi,Finland,Counter-Strike: Global Offensive,First-Person Shooter
+kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter
+kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter
+kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter
+ru,Russian Federation,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+kz,Kazakhstan,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+sk,Slovakia,Counter-Strike: Global Offensive,First-Person Shooter
+bg,Bulgaria,Counter-Strike: Global Offensive,First-Person Shooter
+ca,Canada,Counter-Strike: Global Offensive,First-Person Shooter
+se,Sweden,Counter-Strike: Global Offensive,First-Person Shooter
+br,Brazil,Counter-Strike: Global Offensive,First-Person Shooter
+be,Belgium,Counter-Strike: Global Offensive,First-Person Shooter
+es,Spain,Counter-Strike: Global Offensive,First-Person Shooter
+de,Germany,Counter-Strike: Global Offensive,First-Person Shooter
+gb,United Kingdom,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+cn,China,Counter-Strike: Global Offensive,First-Person Shooter
+us,United States of America,Counter-Strike: Global Offensive,First-Person Shooter
+pl,Poland,Counter-Strike: Global Offensive,First-Person Shooter
+fr,France,Counter-Strike: Global Offensive,First-Person Shooter
+uz,Uzbekistan,Counter-Strike: Global Offensive,First-Person Shooter
+dk,Denmark,Dota 2,Multiplayer Online Battle Arena
+fi,Finland,Dota 2,Multiplayer Online Battle Arena
+au,Australia,Dota 2,Multiplayer Online Battle Arena
+fr,France,Dota 2,Multiplayer Online Battle Arena
+fi,Finland,Dota 2,Multiplayer Online Battle Arena
+de,Germany,Dota 2,Multiplayer Online Battle Arena
+jo,Jordan,Dota 2,Multiplayer Online Battle Arena
+bg,Bulgaria,Dota 2,Multiplayer Online Battle Arena
+lb,Lebanon,Dota 2,Multiplayer Online Battle Arena
+fi,Finland,Dota 2,Multiplayer Online Battle Arena
+pk,Pakistan,Dota 2,Multiplayer Online Battle Arena
+us,United States of America,Dota 2,Multiplayer Online Battle Arena
+us,United States of America,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+ee,Estonia,Dota 2,Multiplayer Online Battle Arena
+us,United States of America,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+il,Israel,Dota 2,Multiplayer Online Battle Arena
+ro,Romania,Dota 2,Multiplayer Online Battle Arena
+ca,Canada,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+dk,Denmark,Dota 2,Multiplayer Online Battle Arena
+ca,Canada,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+my,Malaysia,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+au,Australia,Dota 2,Multiplayer Online Battle Arena
+ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+my,Malaysia,Dota 2,Multiplayer Online Battle Arena
+ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena
+ua,Ukraine,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+sg,Singapore,Dota 2,Multiplayer Online Battle Arena
+jo,Jordan,Dota 2,Multiplayer Online Battle Arena
+dk,Denmark,Dota 2,Multiplayer Online Battle Arena
+ua,Ukraine,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+mo,Macao,Dota 2,Multiplayer Online Battle Arena
+ru,Russian Federation,Dota 2,Multiplayer Online Battle Arena
+de,Germany,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+mk,Macedonia,Dota 2,Multiplayer Online Battle Arena
+my,Malaysia,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+ca,Canada,Dota 2,Multiplayer Online Battle Arena
+pl,Poland,Dota 2,Multiplayer Online Battle Arena
+ua,Ukraine,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+ca,Canada,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+us,United States of America,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+ua,Ukraine,Dota 2,Multiplayer Online Battle Arena
+ph,Philippines,Dota 2,Multiplayer Online Battle Arena
+my,Malaysia,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+ph,Philippines,Dota 2,Multiplayer Online Battle Arena
+dk,Denmark,Dota 2,Multiplayer Online Battle Arena
+my,Malaysia,Dota 2,Multiplayer Online Battle Arena
+ph,Philippines,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+ua,Ukraine,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+se,Sweden,Dota 2,Multiplayer Online Battle Arena
+ph,Philippines,Dota 2,Multiplayer Online Battle Arena
+kr,Korea,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+cn,China,Dota 2,Multiplayer Online Battle Arena
+kr,Korea,Dota 2,Multiplayer Online Battle Arena
+by,Belarus,Dota 2,Multiplayer Online Battle Arena
+kr,Korea,Dota 2,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+hr,Croatia,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+se,Sweden,League of Legends,Multiplayer Online Battle Arena
+fr,France,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+pl,Poland,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+bg,Bulgaria,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+us,United States of America,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+be,Belgium,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+us,United States of America,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+ph,Philippines,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+es,Spain,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+dk,Denmark,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+hk,Hong Kong,League of Legends,Multiplayer Online Battle Arena
+si,Slovenia,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+fr,France,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+ca,Canada,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+tw,Taiwan,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+es,Spain,League of Legends,Multiplayer Online Battle Arena
+kr,Korea,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+se,Sweden,League of Legends,Multiplayer Online Battle Arena
+cn,China,League of Legends,Multiplayer Online Battle Arena
+us,United States of America,Fortnite,Battle Royale
+at,Austria,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+no,Norway,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+gb,United Kingdom,Fortnite,Battle Royale
+nl,Netherlands,Fortnite,Battle Royale
+hk,Hong Kong,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+ar,Argentina,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+nl,Netherlands,Fortnite,Battle Royale
+se,Sweden,Fortnite,Battle Royale
+gb,United Kingdom,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+gb,United Kingdom,Fortnite,Battle Royale
+at,Austria,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+ch,Switzerland,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+be,Belgium,Fortnite,Battle Royale
+dk,Denmark,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+at,Austria,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+ch,Switzerland,Fortnite,Battle Royale
+no,Norway,Fortnite,Battle Royale
+lv,Latvia,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+gb,United Kingdom,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+dk,Denmark,Fortnite,Battle Royale
+no,Norway,Fortnite,Battle Royale
+nl,Netherlands,Fortnite,Battle Royale
+si,Slovenia,Fortnite,Battle Royale
+de,Germany,Fortnite,Battle Royale
+de,Germany,Fortnite,Battle Royale
+ru,Russian Federation,Fortnite,Battle Royale
+ru,Russian Federation,Fortnite,Battle Royale
+by,Belarus,Fortnite,Battle Royale
+de,Germany,Fortnite,Battle Royale
+dk,Denmark,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+be,Belgium,Fortnite,Battle Royale
+fi,Finland,Fortnite,Battle Royale
+no,Norway,Fortnite,Battle Royale
+ch,Switzerland,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+se,Sweden,Fortnite,Battle Royale
+ru,Russian Federation,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+se,Sweden,Fortnite,Battle Royale
+be,Belgium,Fortnite,Battle Royale
+si,Slovenia,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+se,Sweden,Fortnite,Battle Royale
+ca,Canada,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+kr,Korea,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+lt,Lithuania,Fortnite,Battle Royale
+us,United States of America,Fortnite,Battle Royale
+fr,France,Fortnite,Battle Royale
+se,Sweden,Fortnite,Battle Royale
+dk,Denmark,Fortnite,Battle Royale
+de,Germany,Fortnite,Battle Royale
+gb,United Kingdom,Fortnite,Battle Royale
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+us,United States of America,Overwatch,First-Person Shooter
+us,United States of America,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+se,Sweden,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+us,United States of America,Overwatch,First-Person Shooter
+jp,Japan,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+gb,United Kingdom,Overwatch,First-Person Shooter
+gb,United Kingdom,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+fr,France,Overwatch,First-Person Shooter
+fr,France,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+cn,China,Overwatch,First-Person Shooter
+il,Israel,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+ca,Canada,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+se,Sweden,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+fi,Finland,Overwatch,First-Person Shooter
+fi,Finland,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+fi,Finland,Overwatch,First-Person Shooter
+us,United States of America,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+es,Spain,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+gb,United Kingdom,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+ru,Russian Federation,Overwatch,First-Person Shooter
+ca,Canada,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+br,Brazil,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+fi,Finland,Overwatch,First-Person Shooter
+cn,China,Overwatch,First-Person Shooter
+es,Spain,Overwatch,First-Person Shooter
+se,Sweden,Overwatch,First-Person Shooter
+ca,Canada,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+us,United States of America,Overwatch,First-Person Shooter
+fr,France,Overwatch,First-Person Shooter
+fr,France,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+au,Australia,Overwatch,First-Person Shooter
+kr,Korea,Overwatch,First-Person Shooter
+fi,Finland,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+us,United States of America,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+ca,Canada,Starcraft II,Strategy
+mx,Mexico,Starcraft II,Strategy
+no,Norway,Starcraft II,Strategy
+pl,Poland,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+fr,France,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+it,Italy,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+de,Germany,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+pl,Poland,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+pl,Poland,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+se,Sweden,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+de,Germany,Starcraft II,Strategy
+br,Brazil,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+nl,Netherlands,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+ca,Canada,Starcraft II,Strategy
+tw,Taiwan,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+tw,Taiwan,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+ca,Canada,Starcraft II,Strategy
+fr,France,Starcraft II,Strategy
+ua,Ukraine,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+de,Germany,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+nl,Netherlands,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+se,Sweden,Starcraft II,Strategy
+es,Spain,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+de,Germany,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+fr,France,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+fr,France,Starcraft II,Strategy
+de,Germany,Starcraft II,Strategy
+dk,Denmark,Starcraft II,Strategy
+kr,Korea,Starcraft II,Strategy
+se,Sweden,Starcraft II,Strategy
+cn,China,Starcraft II,Strategy
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena
+fr,France,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+fr,France,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+gb,United Kingdom,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+bg,Bulgaria,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+pl,Poland,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+bg,Bulgaria,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+se,Sweden,Heroes of the Storm,Multiplayer Online Battle Arena
+si,Slovenia,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+hr,Croatia,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+no,Norway,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+tw,Taiwan,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+de,Germany,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+au,Australia,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+tw,Taiwan,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+ca,Canada,Heroes of the Storm,Multiplayer Online Battle Arena
+us,United States of America,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,Heroes of the Storm,Multiplayer Online Battle Arena
+cn,China,Heroes of the Storm,Multiplayer Online Battle Arena
+dk,Denmark,Heroes of the Storm,Multiplayer Online Battle Arena
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+se,Sweden,PUBG,Battle Royale
+fi,Finland,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+no,Norway,PUBG,Battle Royale
+fi,Finland,PUBG,Battle Royale
+no,Norway,PUBG,Battle Royale
+nl,Netherlands,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ca,Canada,PUBG,Battle Royale
+fi,Finland,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+gb,United Kingdom,PUBG,Battle Royale
+ie,Ireland,PUBG,Battle Royale
+ph,Philippines,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+gi,Gibraltar,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ca,Canada,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+lt,Lithuania,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+tr,Turkey,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+ca,Canada,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+au,Australia,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cu,Cuba,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+fr,France,PUBG,Battle Royale
+fr,France,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+dk,Denmark,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+se,Sweden,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+dk,Denmark,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+vn,Vietnam,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ru,Russian Federation,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+ca,Canada,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+de,Germany,PUBG,Battle Royale
+de,Germany,PUBG,Battle Royale
+gb,United Kingdom,PUBG,Battle Royale
+cn,China,PUBG,Battle Royale
+kr,Korea,PUBG,Battle Royale
+th,Thailand,PUBG,Battle Royale
+dk,Denmark,PUBG,Battle Royale
+us,United States of America,PUBG,Battle Royale
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+vn,Vietnam,Arena of Valor,Multiplayer Online Battle Arena
+us,United States of America,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+my,Malaysia,Arena of Valor,Multiplayer Online Battle Arena
+kr,Korea,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+tw,Taiwan,Arena of Valor,Multiplayer Online Battle Arena
+th,Thailand,Arena of Valor,Multiplayer Online Battle Arena
+cn,China,Arena of Valor,Multiplayer Online Battle Arena
+nl,Netherlands,Hearthstone,Collectible Card Game
+tw,Taiwan,Hearthstone,Collectible Card Game
+ru,Russian Federation,Hearthstone,Collectible Card Game
+no,Norway,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+se,Sweden,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+ua,Ukraine,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+jp,Japan,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+ua,Ukraine,Hearthstone,Collectible Card Game
+ro,Romania,Hearthstone,Collectible Card Game
+ph,Philippines,Hearthstone,Collectible Card Game
+dk,Denmark,Hearthstone,Collectible Card Game
+ru,Russian Federation,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+cz,Czech Republic,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+tr,Turkey,Hearthstone,Collectible Card Game
+se,Sweden,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+fr,France,Hearthstone,Collectible Card Game
+ua,Ukraine,Hearthstone,Collectible Card Game
+ru,Russian Federation,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+tw,Taiwan,Hearthstone,Collectible Card Game
+gr,Greece,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+tw,Taiwan,Hearthstone,Collectible Card Game
+pl,Poland,Hearthstone,Collectible Card Game
+tw,Taiwan,Hearthstone,Collectible Card Game
+jp,Japan,Hearthstone,Collectible Card Game
+fr,France,Hearthstone,Collectible Card Game
+ar,Argentina,Hearthstone,Collectible Card Game
+hk,Hong Kong,Hearthstone,Collectible Card Game
+gb,United Kingdom,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+kz,Kazakhstan,Hearthstone,Collectible Card Game
+nl,Netherlands,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+jp,Japan,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+ar,Argentina,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+gb,United Kingdom,Hearthstone,Collectible Card Game
+cz,Czech Republic,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+fr,France,Hearthstone,Collectible Card Game
+nl,Netherlands,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+hk,Hong Kong,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+kr,Korea,Hearthstone,Collectible Card Game
+ca,Canada,Hearthstone,Collectible Card Game
+hk,Hong Kong,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+dk,Denmark,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+cn,China,Hearthstone,Collectible Card Game
+de,Germany,Hearthstone,Collectible Card Game
+fi,Finland,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+it,Italy,Hearthstone,Collectible Card Game
+us,United States of America,Hearthstone,Collectible Card Game
+se,Sweden,Hearthstone,Collectible Card Game
