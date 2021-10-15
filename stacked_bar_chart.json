@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/AlexL1410/3179/main/games_per_country.csv"},
-    "height":500,
-    "width":500,
+    "height":700,
+    "width":700,
     "params": [
       {
       "name": "Country_selection",
