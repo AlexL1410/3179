@@ -4,9 +4,9 @@
 
   "title": "Total Professional E-Sports Players Per Country",
 
-  "width": 800,
+  "width": 500,
 
-  "height": 600,
+  "height": 500,
 
   "data": {
 
@@ -30,7 +30,7 @@
 
               "data": {
 
-                  "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/choropeth_map.csv"
+                  "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/choropeth_map_test.csv"
 
               },
 
