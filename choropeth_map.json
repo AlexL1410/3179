@@ -2,7 +2,7 @@
 
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-  "title": "Total Professional E-Sports Players Per Country in the Top 1000",
+  "title": "Total Professional E-Sports Players Per Country",
 
   "width": 800,
 
