@@ -7,6 +7,8 @@
   "height": 500,
  
   "title": {"text": "Highest Earning Games in E-Sports"},
+  
+  "description": "This is a bar chart showing the highest earning games in e-sports"
  
   "data": {
  
