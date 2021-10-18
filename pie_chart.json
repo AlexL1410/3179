@@ -2,6 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A simple radial chart with embedded data.",
     "title":"Total E-Sports Earnings By Game Genre",
+    "description": "This is a Redial Plot which shows the total e-sports earning for each game genre",
     "width":500,
     "height":500,
     "data": {
