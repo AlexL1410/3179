@@ -3,6 +3,7 @@
     "width": 500,
     "height": 500,
     "title": {"text":"Top 15 Most Earning E-Sports Teams vs Total Achievements"},
+    "description": "This is a bubble plot which shows the total earnings of each e-sports team compared to their total acheivements",
     "data": {
     "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2015%20Teams%20.csv"
     },      
