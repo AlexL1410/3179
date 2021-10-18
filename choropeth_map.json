@@ -3,6 +3,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": "Total Professional E-Sports Players Per Country",
+  
+  "description": "This is a choropleth map showing the total player count in each country",
 
   "width": 700,
 
