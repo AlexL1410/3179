@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/AlexL1410/3179/main/games_per_country.csv"},
     "title": "Player Count Per Game In Each Country",
-    "description": "This is a stacked bar chart which shows the player count for each game in each individual country",
+    "description": "This is a stacked bar chart which shows the total number of players who play each game in each individual country",
     "height":700,
     "width":700,
     "params": [
