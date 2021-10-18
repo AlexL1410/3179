@@ -3,6 +3,7 @@
   "width": 500,
   "height": 500,
   "title": {"text": "Top 25 Earning Players vs Total Achievements"},
+  "description": "This scatterplot represents the total e-sports earnings of the top 25 league of legend players compared to their total achievements",
   "data": {
     "url": "https://raw.githubusercontent.com/AlexL1410/3179/main/Top%2025%20Players.csv"
   },
